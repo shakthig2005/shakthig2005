@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shakthi%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Building%20Responsible%20AI&descAlignY=62&descSize=18" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shakthi%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20and%20Data%20Science%20%7C%20Building%20Responsible%20AI&descAlignY=62&descSize=18)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Shakthi+G+%F0%9F%91%8B;AI+%26+Data+Science+Student+%40+KCET;Flutter+%7C+Python+%7C+React+Developer;4x+Hackathon+Winner+%F0%9F%8F%86;Turning+Research+Into+Real-World+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Shakthi+G+%F0%9F%91%8B;AI+%26+Data+Science+Student+%40+KCET;Flutter+%7C+Python+%7C+React+Developer;4x+Hackathon+Winner+%F0%9F%8F%86;Turning+Research+Into+Real+World+Impact" alt="Typing SVG" />
   </a>
 </div>
 
@@ -85,12 +85,14 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/shakthig2005">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakthig2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/shakthig2005">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakthig2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakthig2005&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakthig2005&theme=tokyonight" height="160em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakthig2005&theme=tokyonight" height="160em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakthig2005&theme=tokyonight" height="160em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakthig2005&theme=tokyonight&utcOffset=5.5" height="160em"/>
 </div>
 
 ---
@@ -114,7 +116,13 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakthig2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+
+![Hackathon Winner](https://img.shields.io/badge/🏆%204x%20Hackathon%20Winner-gold?style=for-the-badge&labelColor=0d1117&color=FFD700)
+![AI Developer](https://img.shields.io/badge/🤖%20AI%20App%20Builder-4%20Projects-blue?style=for-the-badge&labelColor=0d1117&color=70a5fd)
+![Flutter Dev](https://img.shields.io/badge/📱%20Flutter%20Developer-Mobile%20Apps-teal?style=for-the-badge&labelColor=0d1117&color=38bdae)
+![CGPA](https://img.shields.io/badge/🎓%20CGPA%207.8%2F10-B.Tech%20AI%20%26%20DS-purple?style=for-the-badge&labelColor=0d1117&color=bf91f3)
+![Open Source](https://img.shields.io/badge/🌐%20Open%20Source-Active%20Contributor-green?style=for-the-badge&labelColor=0d1117&color=56d364)
+
 </div>
 
 ---
@@ -201,4 +209,4 @@ print(me.motto())
   📍 Tiruchirapalli, Tamil Nadu, India
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
